@@ -3,7 +3,7 @@
 
 =======
 
-![Laravel Ecommerce Example](https://drive.google.com/file/d/10t910RwHhyfQXBOSYfv3Hbi0vsCqsbj6/view?usp=sharing)
+![Laravel blog Example](https://drive.google.com/file/d/10t910RwHhyfQXBOSYfv3Hbi0vsCqsbj6/view?usp=sharing)
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 >>>>>>> Stashed changes

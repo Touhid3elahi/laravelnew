@@ -1,4 +1,6 @@
-<p align="center">Images![blog Example](readme.gif)</p>
+<p align="center">
+    ![blog Example](readme.gif)
+</p>
 
 
 

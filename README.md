@@ -1,4 +1,4 @@
-<p align="center"><img src="![Laravel Ecommerce Example](https://drive.google.com/file/d/10t910RwHhyfQXBOSYfv3Hbi0vsCqsbj6/view?usp=sharing)" width="500"></p>
+<p align="center"><img src="https://drive.google.com/file/d/10t910RwHhyfQXBOSYfv3Hbi0vsCqsbj6/view?usp=sharing" width="500"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>

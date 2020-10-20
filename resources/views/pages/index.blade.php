@@ -4,7 +4,7 @@
     <div class="col-lg-8 col-md-10 mx-auto">
       @foreach($post as $row)
         <div class="post-preview">
-          <a href="post.html">
+          <a href="{{ URL::to('view/post/'.$row->id)}}">
             <img src="{{ URL::to($row->image) }}" style="height: 300px;">
             <h2 class="post-title">
               {{ $row->title }}

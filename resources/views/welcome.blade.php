@@ -46,7 +46,10 @@
             <a class="nav-link" href="{{route('write.post')}}">Write Post</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact</a>
+            <a class="nav-link" href="{{route('contact')}}">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{URL::to('student')}}">Student</a>
           </li>
         </ul>
       </div>
@@ -60,7 +63,7 @@
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="site-heading">
-            <h1>Clean Blog</h1>
+            <h1>Touhid Blog</h1>
             <span class="subheading">A Blog Theme by Start Bootstrap</span>
           </div>
         </div>

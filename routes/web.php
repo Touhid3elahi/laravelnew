@@ -20,7 +20,7 @@ use Illuminate\Support\Facades\Route;
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
-route::view('/contact','contact');
+Route::get('/contact','pagecontroller@contact')->name('contact');
 //route::view('/','pages.index');
 Route::get('about/us','pagecontroller@about')->name('about');
 Route::get('/','pagecontroller@index');
@@ -43,3 +43,15 @@ Route::get('view/post/{id}','postcontroller@viewpost');
 Route::get('edit/post/{id}','postcontroller@editpost');
 Route::post('update/post/{id}','postcontroller@updatepost');
 Route::post('delete/post/{id}','postcontroller@deletepost');
+
+
+////student
+//Route::get('students','studentcontroller@student')->name('student');
+//Route::post('store/student','studentcontroller@storestudent')->name('store.student');
+//Route::get('all/student','studentcontroller@index')->name('all.student');
+//Route::get('view/student/{id}','studentcontroller@show');
+//Route::get('delete/student/{id}','studentcontroller@destroy');
+//Route::get('edit/student/{id}','studentcontroller@edit');
+//Route::post('update/student/{id}','studentcontroller@update');
+
+Route::resource('student','studentcontroller');

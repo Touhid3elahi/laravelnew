@@ -10,7 +10,10 @@ class pagecontroller extends Controller
     {
     	return view('pages.about');
     }
-
+public function contact()
+    {
+        return view('contact');
+    }
     public function index()
     {
         $post=DB::table('posts')->join('categories','posts.category_id','categories.id')

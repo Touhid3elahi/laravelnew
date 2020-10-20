@@ -9,6 +9,7 @@
             <a href="{{route('all.post')}}" class="btn btn-outline-info">all post</a>
         </p>
           <hr>
+          <h3>Write Post</h3>
         @if ($errors->any())
           <div class="alert alert-danger">
             <ul>

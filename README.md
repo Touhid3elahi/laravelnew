@@ -1,5 +1,5 @@
 <<<<<<< Updated upstream
-![Laravel blog Example](https://mega.nz/fm/1hp3WYJA)
+![Laravel blog Example](readme.gif)
 
 =======
 

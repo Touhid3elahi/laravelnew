@@ -42,7 +42,7 @@ Route::get('all/post','postcontroller@allpost')->name('all.post');
 Route::get('view/post/{id}','postcontroller@viewpost');
 Route::get('edit/post/{id}','postcontroller@editpost');
 Route::post('update/post/{id}','postcontroller@updatepost');
-Route::post('delete/post/{id}','postcontroller@deletepost');
+Route::get('delete/post/{id}','postcontroller@deletepost');
 
 
 ////student

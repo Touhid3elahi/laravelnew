@@ -23,14 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f949197-fec6-4f19-ab89-e3d6767f63eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/studentcontroller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Student.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2020_09_10_135656_create_students_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/student/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/student/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/student/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/image/1681336520286705.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/postcontroller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/postcontroller.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +170,7 @@
     <property name="ToolWindowFind.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Blade" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../basicwebsite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -202,6 +198,7 @@
       <workItem from="1599396479770" duration="37845000" />
       <workItem from="1599669485947" duration="18877000" />
       <workItem from="1599921835165" duration="48000" />
+      <workItem from="1603447514266" duration="3524000" />
     </task>
     <servers />
   </component>

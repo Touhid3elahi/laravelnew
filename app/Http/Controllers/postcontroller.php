@@ -114,9 +114,11 @@ class postcontroller extends Controller
 
     public function deletepost($id)
     {
-        $post=DB::table('post')->where('id',$id)->first();
+
+        $post=DB::table('posts')->where('id',$id)->first();
+        $image=$post->image;
         $delete=DB::table('posts')->where('id',$id)->delete();
-        if(delete){
+        if($delete){
             unlink($image);
             $notification=array(
                 'message'=>'successful to delete',
